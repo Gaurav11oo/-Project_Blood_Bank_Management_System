@@ -1,0 +1,65 @@
+.sidebar {
+    height: 200vh !important;
+    width: 45vh !important;
+    /* border-radius: 5px; */
+    /* background-color: #0e7318; */
+    /* background-image: linear-gradient(to left, #434343 0%, #39a901 100%); */
+    background-image: radial-gradient( circle farthest-corner at 22.4% 21.7%, rgb(6, 177, 163) 0%, rgba(2,83,185,1) 100.2% );
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    display: flex;
+    position: fixed;
+    
+    
+
+}
+
+.menu {
+    padding-top: 100px;
+
+}
+
+.menu-item {
+    padding-top: 30px;
+}
+
+.menu-item a {
+    color: white;
+    text-decoration:none;
+    font-size: 1.2rem;
+}
+
+.menu-item i {
+    font-size: 1.2rem;
+    margin: 0 15px;
+    color: white;
+    border-bottom-left-radius: 4px solid black;
+}
+
+.active {
+    background-color: rgb(245, 245, 245);
+    border: 2px solid black;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    /* border-radius: 5px; */
+    border-radius: 20px 20px 20px;   
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 5%;
+    width: 40vh !important;
+}
+
+.active a,
+.active i {
+    color: #2e3200;
+}
+
+.container-admin{
+    width: 158vh !important;
+    padding-top: 4%;
+    
+}
+/*
+grad{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+ */
