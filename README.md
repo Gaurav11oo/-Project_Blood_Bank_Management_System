@@ -32,7 +32,7 @@
 
 ### ● API Reference
 
-### ● API Endpoints
+### ● API Documentation
 
 ### ● Folder Structure
 
@@ -204,6 +204,11 @@ npm run dev.
 | bloodGroup    | `string` | **Required**. Choose blood group from list       |     
 | quantity      | `Int32`  | **Required**. Blood quantity                     |
 | email         | `string` | **Required**. Donar's Email who already register |
+
+# # API Documentaion:-
+   ### ● [Documentation](https://documenter.getpostman.com/view/36462454/2sA3duHDZ8#56c799b1-0b16-4724-87b9-a1a9b4630048)
+
+
 <!-- 
 # #API Endpoints :-
 
