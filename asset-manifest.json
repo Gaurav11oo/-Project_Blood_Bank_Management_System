@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Project_Blood_Bank_Management_System/static/css/main.df8a6e74.css",
+    "main.js": "/Project_Blood_Bank_Management_System/static/js/main.38948b12.js",
+    "static/js/453.419a5d54.chunk.js": "/Project_Blood_Bank_Management_System/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Project_Blood_Bank_Management_System/index.html",
+    "main.df8a6e74.css.map": "/Project_Blood_Bank_Management_System/static/css/main.df8a6e74.css.map",
+    "main.38948b12.js.map": "/Project_Blood_Bank_Management_System/static/js/main.38948b12.js.map",
+    "453.419a5d54.chunk.js.map": "/Project_Blood_Bank_Management_System/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df8a6e74.css",
+    "static/js/main.38948b12.js"
+  ]
+}
