@@ -1,21 +1,20 @@
-# #Mern Project Blood Bank Management System
+# #Mern Project Blood Bank Manag00ement System
 
 ### Welcome to the Blood Bank Management System, a web application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This application aims to streamline the management of blood banks by providing features for donors, recipients, and administrators.
 
 # # Authors : -
-
+## Course : BCA 4th Semester
 ### ● Sanskriti Dwivedi
-- Course: BCA 4th Semester
 
 ### ● Om Chaturvedi
-- Course: BCA 4th Semester
+
 
 
 ### ● Himanshu Gupta
-- Course: BCA 4th Semester
+
 
 ### ● Gaurav Nishad
-- Course: BCA 4th Semester
+
 
 
 # #Table Of Contents :-
