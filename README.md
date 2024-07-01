@@ -1,4 +1,4 @@
-# #Mern Project Blood Bank Manag00ement System
+# #Mern Project Blood Bank Management System
 
 ### Welcome to the Blood Bank Management System, a web application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This application aims to streamline the management of blood banks by providing features for donors, recipients, and administrators.
 
